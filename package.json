@@ -1,0 +1,26 @@
+{
+  "name": "dcxp-the-daily-collegian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zihan64/DCXP-The-Daily-Collegian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zihan64/DCXP-The-Daily-Collegian/issues"
+  },
+  "homepage": "https://github.com/Zihan64/DCXP-The-Daily-Collegian#readme",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "oauth-1.0a": "^2.2.6"
+  }
+}
